@@ -1,4 +1,4 @@
-sap-hana-preconfigure
+sap-hana-preconfigure - Chris test
 =====================
 
 This role configures a RHEL 7.x or RHEL 8 system according to the SAP notes so that SAP HANA is installable
